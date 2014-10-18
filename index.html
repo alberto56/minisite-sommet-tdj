@@ -52,7 +52,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="top-nav">
               <ul>
                 <li class="active"><a href="#home" class="scroll">{{ site.menu1title }} </a></li>
-                <li><a href="#about" class="scroll">About</a></li>
+                <li><a href="#{{ site.menu_section_1 }}" class="scroll">{{ site.menu_section_1 }}</a></li>
                 <li><a href="#team" class="scroll">Team</a></li>
                 <li><a href="#port" class="scroll">Protfolio</a></li>
                 <li><a  href="#contact" class="scroll">Contact</a></li>
@@ -65,14 +65,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
          </div>
        <!---start-slider----->
        <div class="slider-info">
-         <h2>We are the best</h2>
-         <h1>Travel <span>media</span></h1>
+         <h2>{{ site.slogan_ligne_1 }}</h2>
+         <h1>{{ site.slogan_ligne_2 }}</h1>
          <div id="slideshow">
            <div>
-             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-          </div>
-          <div>
-            <p> quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+             <p>{{ site.slogan_ligne_3 }}</p>
           </div>
         </div>
        </div>
@@ -80,10 +77,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <!---//End-slider----->
         <!---start-content----->
         <div class="content">
-          <div class="top-grids" id="about">
+          <div class="top-grids" id="{{ site.menu_section_1 }}">
             <div class="welcome-note">
-              <h3>Giving Guiding to Travel</h3>
-              <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat !</p>
+              <h3>{{ site.titre_section_1 }}</h3>
+              <p>{{ site.desc_section_1 }}</p>
             </div>
             <div class="wrap">
               <div class="top-grid-row">

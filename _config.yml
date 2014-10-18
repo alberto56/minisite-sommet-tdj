@@ -1,13 +1,35 @@
 # Modifiez ce document pour modifier le site du sommet
 
 # titre du site
-title: Sommet Terre des jeunes au Togo 2015
+title: Sommet TDJ Togo 2015
 
 # description tel qu'il apparaît sur Google
 description:
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Terre des jeunes prévoit un sommet international qui rassemblera des jeunes d'à travers le monde qui oeuvrent bénévolement pour l'environnement.
+
+# slogan ligne 1 (taille moyenne)
+slogan_ligne_1:
+  Sommet international
+
+# slogan ligne 2 (gros texte)
+slogan_ligne_2:
+  Terre des jeunes
+
+# slogan ligne 3 en plus petit
+slogan_ligne_3:
+  Terre des jeunes prévoit un sommet international qui rassemblera des jeunes d'à travers le monde qui oeuvrent bénévolement pour l'environnement.
+
+# entrée de menu de la première section (garder ça court)
+menu_section_1:
+  S1
+
+# titre de la première section
+titre_section_1:
+  Tire de la première section
+
+# description de la première section
+desc_section_1:
+  Ceci est la description de la première section
 
 # grosse image en haut de la page
 grosse_image:
