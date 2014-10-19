@@ -1,26 +1,31 @@
-- titre:  "Semaine planétaire pour une meilleure vie"
-  lieu:   Cameroun
-  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/images_sur_nodes/jr.JPG
-  url: 
+- titre:  "Fête de l'arbre"
+  lieu:   Côte d'Ivoire
+  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/DSC00093.JPG
+  url: http://terredesjeunes.org/node/1741
 
-- titre:  "Semaine planétaire pour une meilleure vie"
-  lieu:   Cameroun
-  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/images_sur_nodes/jr.JPG
+- titre:  "Nettoyage des côtes"
+  lieu:   Côte d'Ivoire
+  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/20140920_111512.jpg
+  url: http://terredesjeunes.org/node/1740
 
-- titre:  "Semaine planétaire pour une meilleure vie"
+- titre:  "Semaine planétaire"
   lieu:   Cameroun
-  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/images_sur_nodes/jr.JPG
+  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/jr.JPG
+  url: http://terredesjeunes.org/node/1734
 
-- titre:  "Semaine planétaire pour une meilleure vie"
+- titre:  "Halte à la dégradation"
   lieu:   Cameroun
-  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/images_sur_nodes/jr.JPG
+  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/JM.jpg
+  url: http://terredesjeunes.org/node/1732
 
-- titre:  "Semaine planétaire pour une meilleure vie"
-  lieu:   Cameroun
-  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/images_sur_nodes/jr.JPG
+- titre:  "Séance de Salubrité"
+  lieu:   Bénin
+  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/PICT0352.JPG
+  url: http://terredesjeunes.org/node/1728
 
-- titre:  "Semaine planétaire pour une meilleure vie"
-  lieu:   Cameroun
-  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/images_sur_nodes/jr.JPG
+- titre:  "Mobilisation pan-Togolaise"
+  lieu:   Togo
+  image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/DSCN0532.JPG
+  url: http://terredesjeunes.org/node/1712
 
 # La structure de ce document est documentée au http://jekyllrb.com/docs/datafiles/
