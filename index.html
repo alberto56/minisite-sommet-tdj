@@ -397,83 +397,21 @@ layout: none
           <div class="mid-grids" id="port">
             <div class="mid-grids-header">
               <h3>{{ site.actions_titre }}</h3>
-              <p>{{ site.actions_desc }}</p>
+              <p>{{ site.actions_desc }} <a href="https://github.com/alberto56/minisite-sommet-tdj/blob/gh-pages/_data/actions.yml">Modifiez cette section</a></p>
             </div>
             <ul class="grid cs-style-2">
-              {% for post in site.posts %}
-                {% if post.categories contains 'action' %}
-                  <li>
-                    <figure>
-                      <img src="{{ post.image }}" width="400" heigth="300" alt="{{ post.titre }}">
-                      <figcaption>
-                        <h3>{{ post.titre }}</h3>
-                        <span>{{ post.lieu }} <a href="https://github.com/alberto56/minisite-sommet-tdj/blob/gh-pages/{{ post.path }}">[modifier]</a></span>
-                        <a href="#" class="biglink">Read more</a>
-                      </figcaption>
-                    </figure>
-                  </li>
-                {% endif %}
+              {% for action in site.data.actions %}
+                <li>
+                  <figure>
+                    <img src="{{ action.image }}" width="400" heigth="300" alt="{{ post.titre }}">
+                    <figcaption>
+                      <h3>{{ action.titre }}</h3>
+                      <span>{{ action.lieu }}</span>
+                      <a href="#" class="biglink">Read more</a>
+                    </figcaption>
+                  </figure>
+                </li>
               {% endfor %}
-              <li>
-                <figure>
-                  <img src="images/tr6.jpg" alt="img02">
-                  <figcaption>
-                    <h3>place1</h3>
-                    <span>seven versalia</span>
-                    <a href="#">Read more</a>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="images/tr2.jpg" alt="img03">
-                  <figcaption>
-                    <h3>place2</h3>
-                    <span>Herself on</span>
-                    <a href="#">Read more</a>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="images/tr3.jpg" alt="img06">
-                  <figcaption>
-                    <h3>place3</h3>
-                    <span>initial into</span>
-                    <a href="#">Read more</a>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="images/tr4.jpg" alt="img04">
-                  <figcaption>
-                    <h3>place4</h3>
-                    <span>versalia</span>
-                    <a href="#">Read more</a>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="images/tr5.jpg" alt="img05">
-                  <figcaption>
-                    <h3>place5</h3>
-                    <span>belt and</span>
-                    <a href="#">Read more</a>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="images/tr6.jpg" alt="img01">
-                  <figcaption>
-                    <h3>place6</h3>
-                    <span>belt and</span>
-                    <a href="#">Read more</a>
-                  </figcaption>
-                </figure>
-              </li>
             </ul>
           </div>
           <!-- /container -->
