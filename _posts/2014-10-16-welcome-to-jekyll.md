@@ -1,7 +1,7 @@
 ---
 layout: post
-titre:  "Welcome to Jekkyll!"
-date:   2014-10-16 21:10:27
+titre:  "Semaine planétaire pour une meilleure vie"
+lieu:   Cameroun
 categories: action
 image: http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/images_sur_nodes/jr.JPG
 ---
