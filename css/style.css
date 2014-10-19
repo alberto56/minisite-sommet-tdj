@@ -676,7 +676,7 @@ body{
 	content: 'by ';
 }
 
-.grid figcaption a {
+.grid figcaption a.biglink {
 	text-align: center;
 	padding: 6px 10px;
 	display: inline-block;
@@ -715,7 +715,7 @@ body{
 	text-transform: uppercase;
 	color: #aaa;
 }
-.cs-style-2 figcaption a {
+.cs-style-2 figcaption a.biglink {
 	position: absolute;
 	right: 20px;
 	top: 28px;

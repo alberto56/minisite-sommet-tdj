@@ -39,6 +39,19 @@ grosse_image:
 emplacement_ll:
   6.428705,1.2117147
 
+# # # # # # # # # # # # # #
+#
+# SECTION "ACTIONS"
+#
+# # # # # # # # # # # # # #
+
+actions_titre:
+  Actions
+
+actions_desc:
+  Quelques-unes des actions entreprises bénévolement par les antennes de Terre des jeunes à travers le monde.
+
+
 # SVP ne modifiez pas ce qui se trouve sous cette ligne
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog/

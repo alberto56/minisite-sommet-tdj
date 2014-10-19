@@ -53,8 +53,9 @@ layout: none
               <li class="active"><a href="#home" class="scroll">{{ site.menu1title }} </a></li>
               <li><a href="#{{ site.menu_section_1 }}" class="scroll">{{ site.menu_section_1 }}</a></li>
               <li><a href="#team" class="scroll">Team</a></li>
-              <li><a href="#port" class="scroll">Protfolio</a></li>
-              <li><a  href="#carte" class="scroll">Carte</a></li>
+              <li><a href="#port" class="scroll">Actions</a></li>
+              <li><a href="http://terredesjeunes.org/contact">Contact</a></li>
+              <li><a href="#carte" class="scroll">Carte</a></li>
             </ul>
           </div>
           <div class="clear"> </div>
@@ -395,10 +396,24 @@ layout: none
           <!---start-mid-grids-->
           <div class="mid-grids" id="port">
             <div class="mid-grids-header">
-              <h3>Recent places</h3>
-              <p>She packed her seven versalia, put her initial into the belt and made herself on the way.</p>
+              <h3>{{ site.actions_titre }}</h3>
+              <p>{{ site.actions_desc }}</p>
             </div>
             <ul class="grid cs-style-2">
+              {% for post in site.posts %}
+                {% if post.categories contains 'action' %}
+                  <li>
+                    <figure>
+                      <img src="images/tr6.jpg" alt="img02">
+                      <figcaption>
+                        <h3>{{ post.titre }}</h3>
+                        <span>seven versalia <a href="https://github.com/alberto56/minisite-sommet-tdj/blob/gh-pages/{{ post.path }}">[modifier]</a></span>
+                        <a href="#" class="biglink">Read more</a>
+                      </figcaption>
+                    </figure>
+                  </li>
+                {% endif %}
+              {% endfor %}
               <li>
                 <figure>
                   <img src="images/tr6.jpg" alt="img02">
