@@ -35,6 +35,10 @@ desc_section_1:
 grosse_image:
   http://terredesjeunes.org/sites/terredesjeunes.org/files/js.JPG
 
+# latitude et longitude du site
+emplacement_ll:
+  6.428705,1.2117147
+
 # SVP ne modifiez pas ce qui se trouve sous cette ligne
 email: your-email@domain.com
 baseurl: "" # the subpath of your site, e.g. /blog/
