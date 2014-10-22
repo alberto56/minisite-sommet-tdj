@@ -219,7 +219,15 @@ layout: none
           </div>
           <div class="contact-box">
             <div class="contact-map">
-              <iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/?ie=UTF8&amp;ll={{ site.emplacement_ll }}&amp;spn=3.803105,6.696167&amp;t=m&amp;z=11&amp;output=embed"></iframe></small>
+              <!--see http://stackoverflow.com/questions/21992498-->
+              <div style="background:transparent;
+   position:relative;
+   width:100%;
+   height:480px; /* your iframe height */
+   top:480px;  /* your iframe height */
+   margin-top:-480px;  /* your iframe height */
+" onClick="style.pointerEvents='none'"></div>
+              <iframe width="100%" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/?ie=UTF8&amp;ll={{ site.emplacement_ll }}&amp;spn=3.803105,6.696167&amp;t=m&amp;z=11&amp;output=embed&amp;scrollwheel=FALSE"></iframe></small>
             </div>
           </div>
           <!---End-contact-->
