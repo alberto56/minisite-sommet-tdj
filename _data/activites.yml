@@ -1,0 +1,19 @@
+- titre: village écologique
+  image: exemple
+  description: desc pour village écologique
+  description_longue: desc pour village écologique
+
+- titre: ateliers pratiques
+  image: exemple
+  description: desc pour ateliers pratiques
+  description_longue: desc pour ateliers pratiques
+
+- titre: présentations et conférences
+  image: exemple
+  description: desc pour présentations et conférences
+  description_longue: desc pour présentations et conférences
+
+- titre: événements culturels
+  image: exemple
+  description: desc pour événements culturels
+  description_longue: desc pour événements culturels

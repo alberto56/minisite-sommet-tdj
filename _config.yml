@@ -1,11 +1,11 @@
 # Modifiez ce document pour modifier le site du sommet
 
 # titre du site
-title: Sommet TDJ Togo 2015
+title: Sommet Terre des jeunes au Togo 2015
 
 # description tel qu'il apparaît sur Google
 description:
-  Terre des jeunes prévoit un sommet international qui rassemblera des jeunes d'à travers le monde qui oeuvrent bénévolement pour l'environnement.
+  Terre des jeunes prévoit un sommet international qui rassemble des jeunes d'à travers le monde qui oeuvrent bénévolement pour l'environnement.
 
 # slogan ligne 1 (taille moyenne)
 slogan_ligne_1:
@@ -19,18 +19,6 @@ slogan_ligne_2:
 slogan_ligne_3:
   Terre des jeunes prévoit un sommet international qui rassemblera des jeunes d'à travers le monde qui oeuvrent bénévolement pour l'environnement.
 
-# entrée de menu de la première section (garder ça court)
-menu_section_1:
-  S1
-
-# titre de la première section
-titre_section_1:
-  Tire de la première section
-
-# description de la première section
-desc_section_1:
-  Ceci est la description de la première section
-
 # grosse image en haut de la page
 grosse_image:
   http://terredesjeunes.org/sites/terredesjeunes.org/files/js.JPG
@@ -39,18 +27,96 @@ grosse_image:
 emplacement_ll:
   6.428705,1.2117147
 
-# # # # # # # # # # # # # #
-#
-# SECTION "ACTIONS"
-#
-# # # # # # # # # # # # # #
+# titre de la première section
+section_1_titre:
+  À propos du sommet
 
-actions_titre:
-  Actions
+# titre de la première section
+section_1_menu:
+  À propos
 
-actions_desc:
-  Quelques-unes des actions entreprises bénévolement par les antennes de Terre des jeunes à travers le monde. Voyez-les toutes au <a href="http://terredesjeunes.org">terredesjeunes.org</a>.
+# description de la première section
+section_1_desc:
+  Bénévolat, rencontre, échange culturel, nouveau modèle, techniques simples, contact vers cyriaque et vers terre des jeunes.
 
+section_1_colonne_1_titre:
+  Rencontres
+
+section_1_colonne_1_desc:
+  Texte pour rencontres.
+
+section_1_colonne_2_titre:
+  Échange d'idées
+
+section_1_colonne_2_desc:
+  Texte pour Échange d'idées.
+
+section_1_colonne_3_titre:
+  Ateliers pratiques
+
+section_1_colonne_3_desc:
+  Texte pour Ateliers pratiques.
+
+section_2_titre: Qui sommes-nous?
+
+section_2_menu: Qui sommes-nous?
+
+section_2_texte:
+  Document de présentation,
+
+section_2_dates:
+  Dates
+
+section_2_dates_desc:
+  Dates desc
+
+section_2_image:
+  image de ...
+
+section_2_colonne_1_titre:
+  Où?
+
+section_2_colonne_1_desc:
+  texte pour Où?
+
+section_2_colonne_1_image:
+  images/people1.jpg
+
+section_2_colonne_2_titre:
+  Quand?
+
+section_2_colonne_2_desc:
+  texte pour Quand?
+
+section_2_colonne_2_image:
+  images/people1.jpg
+
+section_2_colonne_3_titre:
+  Combien?
+
+section_2_colonne_3_desc:
+  Paiement et tarifs
+
+section_2_colonne_3_image:
+  images/people1.jpg
+
+section_3_titre:
+  Activités prévues
+
+section_3_menu:
+  Activités
+
+section_3_desc:
+  Activités prévues
+
+section_3_desc_long:
+  Activités prévues, journée type...
+
+section_4_titre:
+  Infos pratiques
+
+section_4_menu:
+  Infos pratiques
 
 # SVP ne modifiez pas ce qui se trouve sous cette ligne
 email: your-email@domain.com
