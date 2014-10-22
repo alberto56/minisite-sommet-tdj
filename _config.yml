@@ -5,7 +5,7 @@ title: Terre des jeunes
 
 # description tel qu'il apparaît sur Google
 description:
-  Terre des jeunes prévoit un sommet international qui rassemble des jeunes d'à travers le monde qui oeuvrent bénévolement pour l'environnement.
+  Terre des jeunes organise un premier sommet international qui rassemble des jeunes bénévoles d'à travers le monde qui oeuvrent pour l'environnement.
 
 # slogan ligne 1 (taille moyenne)
 slogan_ligne_1:
@@ -17,7 +17,7 @@ slogan_ligne_2:
 
 # slogan ligne 3 en plus petit
 slogan_ligne_3:
-  Terre des jeunes prévoit un sommet international qui rassemblera des jeunes d'à travers le monde qui oeuvrent bénévolement pour l'environnement.
+  Terre des jeunes organise un premier sommet international qui rassemble des jeunes bénévoles d'à travers le monde qui oeuvrent pour l'environnement.
 
 # grosse image en haut de la page
 grosse_image:
@@ -37,16 +37,20 @@ section_1_menu:
 
 # description de la première section
 section_1_desc:
-  Bénévolat, rencontre, échange culturel, nouveau modèle, techniques simples, contact vers cyriaque et vers terre des jeunes.
+  Organisé par le réseau Terre des jeunes, actif depuis 1985, il s'agit d'une première grande rencontre internationale. 
+  Le but est de stimuler le bénévolat, l'action directe, les connaissances pratiques en matière de reboisement et d'organisation communautaire.
+  Nous voulons travailler aussi à trouver des modes de fonctionnement super simples, décentralisés et écologiques.
+  Au menu : du bénévolat, des rencontres et discussions, de l'action directe, des échanges culturels, de la fête. Un volet touristique et culturel est prévu à la suite du Sommet. 
+  Cliquez ici pour contacter les organisateurs au Togo pour toute demande d'information. Cliquez ici pour contacter Terre des jeunes au Québec, Canada.
 
 section_1_colonne_1_titre:
   Rencontres
 
 section_1_colonne_1_desc:
-  Texte pour rencontres.
+  Des représentants des antennes de Terre des jeunes de plusieurs pays de la Francophonie seront présents, dont le Togo, la Côte d'Ivoire, Haïti, le Canada, le Bénin, etc. Ainsi que toute personne intéressée à changer le monde est invitée à contribuer avec sa culture et ses idées.
 
 section_1_colonne_2_titre:
-  Échange d'idées
+  Échanges d'idées
 
 section_1_colonne_2_desc:
   Texte pour Échange d'idées.
