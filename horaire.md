@@ -5,6 +5,8 @@ layout: page
 Horaire proposé du sommet
 =========================
 
+Ceci est un site libre. [Vous pouvez le modifier](https://github.com/alberto56/minisite-sommet-tdj/edit/gh-pages/horaire.md).
+
 Du 8 au 13 août
 ---------------
 
