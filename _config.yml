@@ -1,22 +1,23 @@
 # Modifiez ce document pour modifier le site du sommet
 
 # titre du site
-title: Terre des jeunes
+title: >
+  Terre des jeunes
 
 # description tel qu'il apparaît sur Google
-description:
+description: >
   Terre des jeunes organise un premier sommet international qui rassemble des jeunes bénévoles d'à travers le monde qui oeuvrent pour l'environnement.
 
 # slogan ligne 1 (taille moyenne)
-slogan_ligne_1:
+slogan_ligne_1: >
   Du 14 au 18 août 2015
 
 # slogan ligne 2 (gros texte)
-slogan_ligne_2:
+slogan_ligne_2: >
   Sommet international au Togo
 
 # slogan ligne 3 en plus petit
-slogan_ligne_3:
+slogan_ligne_3: >
   Terre des jeunes organise un premier sommet international qui rassemble des jeunes bénévoles d'à travers le monde qui oeuvrent pour l'environnement.
 
 # grosse image en haut de la page
@@ -52,7 +53,7 @@ section_1_colonne_1_desc:
 section_1_colonne_2_titre:
   Échanges d'idées
 
-section_1_colonne_2_desc:
+section_1_colonne_2_desc: >
   Nous voulons ouvrir le débat sur :
   * Comment financer ses activités sans devenir prisonnier du cycle des subventions?
   * Comment gérer un organisme de manière décentralisée et ouverte?
@@ -65,7 +66,7 @@ section_1_colonne_2_desc:
 section_1_colonne_3_titre:
   Ateliers pratiques
 
-section_1_colonne_3_desc:
+section_1_colonne_3_desc: >
   Nous avons prévu des chantiers pratiques chaque jour
    * Plantation d'arbres et reboisement : Graine de vie, Sylvelle, Fête de l'arbre, parc sylva. Essences intéressantes.
    * Préparation d'un jardin communautaire et/ou collectif : Choix du modèle, enrichir la terre (compost), plantes locales.
