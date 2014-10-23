@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Horaire proposé du site
+xyz: abc
 ---
 
 [Accueil](index.html) > Horaire proposé du sommet
