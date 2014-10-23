@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Horaire proposé du site
 ---
 
 [Accueil](index.html) > Horaire proposé du sommet
