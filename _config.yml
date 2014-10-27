@@ -107,7 +107,7 @@ section_2_colonne_1_desc:
   texte pour Où?
 
 section_2_colonne_1_image:
-  images/people1.jpg
+  http://terredesjeunes.org/sites/terredesjeunes.org/files/terre.png
 
 section_2_colonne_2_titre:
   Quand?
@@ -116,7 +116,7 @@ section_2_colonne_2_desc:
   texte pour Quand?
 
 section_2_colonne_2_image:
-  images/people1.jpg
+  http://terredesjeunes.org/sites/terredesjeunes.org/files/clock50px.png
 
 section_2_colonne_3_titre:
   Combien?
@@ -125,7 +125,7 @@ section_2_colonne_3_desc:
   Paiement et tarifs
 
 section_2_colonne_3_image:
-  images/people1.jpg
+  http://terredesjeunes.org/sites/terredesjeunes.org/files/combien.png
 
 section_3_titre:
   Activités prévues
