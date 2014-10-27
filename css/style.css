@@ -475,26 +475,26 @@ body{
 	background: transparent url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg) no-repeat center center;
 	border-radius: 50%;
 }
-.ca-item-2 .ca-icon{
-	background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
+.ca-item-village .ca-icon{
+background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/construction-ecolo.png);
 }
-.ca-item-3 .ca-icon{
-	background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
+.ca-item-ateliers .ca-icon{
+background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/ateliers_0.jpg);
 }
-.ca-item-4 .ca-icon{
-	background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
+.ca-item-presentations .ca-icon{
+background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/conference_0.jpg);
 }
-.ca-item-5 .ca-icon{
-	background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
+.ca-item-culturels .ca-icon{
+background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
 }
 .ca-item-6 .ca-icon{
-	background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
+background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
 }
 .ca-item-7 .ca-icon{
-	background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
+background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
 }
 .ca-item-8 .ca-icon{
-	background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
+background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/culturel.jpg);
 }
 .ca-item h3{
 	font-family: 'Waiting for the Sunrise', cursive;
