@@ -22,7 +22,8 @@ slogan_ligne_3: >
 
 # grosse image en haut de la page
 grosse_image:
-  http://terredesjeunes.org/sites/terredesjeunes.org/files/js.JPG
+  # http://terredesjeunes.org/sites/terredesjeunes.org/files/js.JPG
+  http://terredesjeunes.org/sites/terredesjeunes.org/files/Corbis-42-21178497.jpg
 
 # latitude et longitude du site
 emplacement_ll:
