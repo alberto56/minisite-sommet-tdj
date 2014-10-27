@@ -2,18 +2,22 @@
   image: exemple
   description: desc pour village écologique
   description_longue: desc pour village écologique
+  identifiant_unique: village
 
 - titre: ateliers pratiques
   image: exemple
   description: desc pour ateliers pratiques
   description_longue: desc pour ateliers pratiques
+  identifiant_unique: ateliers
 
 - titre: présentations et conférences
   image: exemple
   description: desc pour présentations et conférences
   description_longue: desc pour présentations et conférences
+  identifiant_unique: presentations
 
 - titre: événements culturels
   image: exemple
   description: desc pour événements culturels
   description_longue: desc pour événements culturels
+  identifiant_unique: culturels
