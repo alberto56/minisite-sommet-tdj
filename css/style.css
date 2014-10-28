@@ -120,11 +120,11 @@ body{
 	line-height:1.8em;
 }
 /*-----*/
-#slideshow {
+#not-a-slideshow {
     position: relative;
 }
 
-#slideshow > div {
+#not-a-slideshow > div {
     position: absolute;
     top: 10px;
     left: 10px;
