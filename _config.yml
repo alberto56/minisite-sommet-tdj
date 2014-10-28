@@ -95,10 +95,10 @@ section_2_texte: >
   <a href="http://terredesjeunes.org/sites/terredesjeunes.org/files/issues/sommet_tdj_togo_2015_v130220EN.pdf">anglais</a> ou <a href="http://terredesjeunes.org/sites/terredesjeunes.org/files/issues/_sommet_tdj_togo_2015_v130220ES.pdf">espagnol</a>.
   
 section_2_dates:
-  Dates
+  14 au 18 août 2015
 
 section_2_dates_desc:
-  14 au 18 août 2015, avec possibilité d'éco-tourisme après.
+  Avec possibilité d'éco-tourisme après.
 
 section_2_image:
   image de ...
@@ -116,7 +116,7 @@ section_2_colonne_2_titre:
   Quand?
 
 section_2_colonne_2_desc:
-  texte pour Quand?
+  14 au 18 août 2015
 
 section_2_colonne_2_image:
   http://terredesjeunes.org/sites/terredesjeunes.org/files/clock50px.png
@@ -125,7 +125,7 @@ section_2_colonne_3_titre:
   Combien?
 
 section_2_colonne_3_desc:
-  Paiement et tarifs
+  Les frais de participation sont de 200 euros ou 300$USD.
 
 section_2_colonne_3_image:
   http://terredesjeunes.org/sites/terredesjeunes.org/files/combien.png
@@ -137,10 +137,10 @@ section_3_menu:
   Activités
 
 section_3_desc:
-  Activités prévues
+  Activités pratiques et culturelles
 
 section_3_desc_long:
-  Activités prévues, journée type. Voici un lien vers la page de  <a href="horaire.html">l'horaire proposé</a>...
+  Nous en sommes actuellement à l'élaboration de l'horaire, <a href="horaire.html">que vous pouvez consulter ici</a>.
 
 section_4_titre:
   Infos pratiques
