@@ -90,14 +90,17 @@ section_2_titre: Où, quand, combien?
 
 section_2_menu: Où, quand, combien?
 
-section_2_texte:
-  Document de présentation,
-
+section_2_texte: >
+  Pour tout savoir sur le projet du sommet, voir notre <strong>document de présentation</strong> en <a href="http://terredesjeunes.org/sites/terredesjeunes.org/files/issues/sommet_tdj_togo_2015_v131202FR.pdf">français</a>,
+  <a href="http://terredesjeunes.org/sites/terredesjeunes.org/files/issues/sommet_tdj_togo_2015_v130220EN.pdf
+">anglais</a> ou <a href="http://terredesjeunes.org/sites/terredesjeunes.org/files/issues/_sommet_tdj_togo_2015_v130220ES.pdf
+">espagnol</a>.
+  
 section_2_dates:
   Dates
 
 section_2_dates_desc:
-  Dates desc
+  14 au 18 août 2015, avec possibilité d'éco-tourisme après.
 
 section_2_image:
   image de ...
@@ -106,7 +109,7 @@ section_2_colonne_1_titre:
   Où?
 
 section_2_colonne_1_desc:
-  texte pour Où?
+  À 30 minutes de Lomé, capitale du Togo, dans le village <a href="http://sommet.terredesjeunes.org/#carte">Tséviépé</a>.
 
 section_2_colonne_1_image:
   http://terredesjeunes.org/sites/terredesjeunes.org/files/terre.png
