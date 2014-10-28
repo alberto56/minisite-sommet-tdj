@@ -163,7 +163,8 @@ body{
 	color: #AAA;
 }
 
-.top-grid {
+.top-grid ul,
+.top-grid p {
 	color:#999;
 	margin: 0.8em 0;
 	line-height: 1.8em;
