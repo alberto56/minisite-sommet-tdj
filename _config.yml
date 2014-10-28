@@ -78,16 +78,17 @@ section_1_colonne_3_titre:
   Ateliers pratiques
 
 section_1_colonne_3_desc: >
-  Nous avons prévu des chantiers pratiques chaque jour
-   * Plantation d'arbres et reboisement : Graine de vie, Sylvelle, Fête de l'arbre, parc sylva. Essences intéressantes.
-   * Préparation d'un jardin communautaire et/ou collectif : Choix du modèle, enrichir la terre (compost), plantes locales.
-   * Construction d'un habitat : Choix de l'habitat, de la structure, de la couverture, etc. et techniques de construction.
-   * Autres chantiers à déterminer.
-  Des conférences axées sur la pratique sont aussi prévues.
+  <p>Nous avons prévu des chantiers pratiques chaque jour</p>
+  <ul>
+   <li>Plantation d'arbres et reboisement : Graine de vie, Sylvelle, Fête de l'arbre, parc sylva. Essences intéressantes.</li>
+   <li>Préparation d'un jardin communautaire et/ou collectif : Choix du modèle, enrichir la terre (compost), plantes locales.</li>
+   <li>Construction d'un habitat : Choix de l'habitat, de la structure, de la couverture, etc. et techniques de construction.</li>
+   <li>Autres chantiers à déterminer.</li>
+  <p>Des conférences axées sur la pratique sont aussi prévues.</p>
 
-section_2_titre: Qui sommes-nous?
+section_2_titre: Oû, quand, combien?
 
-section_2_menu: Qui sommes-nous?
+section_2_menu: Oû, quand, combien?
 
 section_2_texte:
   Document de présentation,
