@@ -675,10 +675,6 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 	text-transform: uppercase;
 }
 
-.grid figcaption span:before {
-	content: 'by ';
-}
-
 .grid figcaption a.biglink {
 	text-align: center;
 	padding: 6px 10px;
@@ -1017,3 +1013,15 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 		width: 32%;
 	}
 }
+
+.caption-overlay {
+  z-index:999;
+  position:absolute;
+  top:40px;
+  left:0;
+  text-align:center;
+  width:340px;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+  font-family: 'existencelight';
+ }
