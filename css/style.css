@@ -115,7 +115,8 @@ body{
 .slider-info p{
 	width: 90%;
 	margin: 0 auto;
-	color: #888;
+	color: rgb(25, 53, 58);
+	background-color: rgba(255, 255, 255, 0.5);
 	font-size: 1em;
 	line-height:1.8em;
 }
