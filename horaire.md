@@ -27,6 +27,7 @@ Visite de plusieurs lieux du Togo, dont le Pic d'Agou.
 23 août au 25 août 2015, écovillage et Lomé, Togo
 Participation à un festival culturel qui fait la promotion de la culture traditionnelle togolaise.
 
+***************************
 
 
 
