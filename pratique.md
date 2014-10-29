@@ -20,12 +20,16 @@ Pour les nord-américains ou européens, des vols directs sont disponibles via P
 Votre arrivée
 ----
 
-Lorsque vous arrivez au Togo, attendez-vous à un comité d'accueil qui prendra en charge votre transport et vos transferts vers le site du sommet qui se trouve à 30 minutes de Lomé, dans le village de Tseviépé.
+Lorsque vous arrivez au Togo, attendez-vous à un comité d'accueil qui prendra en charge votre transport et vos transferts vers le site du sommet qui se trouve à 30 minutes de Lomé, dans le village de Tseviépé. Prévoyez de l'argent pour vos transports personnels.
+
+Logement et nourriture
+----
+Les personnes inscrites seront logées et nourries sur le site du Sommet ou chez des villageois. Tout le monde est invité à participer à la gestion des lieux communs et des repas.
 
 À propos du Togo
 ----
 
-Le Togo est un petit pays francophone d'Afrique de l'Ouest, ayant gardé ses traditions africaines. Terre des jeunes a choisi ce pays pour son sommet car les membres de Terre des jeunes Togo y ont fait preuve d'un dynamisme sans relâche pour leur environnement. Plus d'infos:
+Le Togo est un petit pays francophone d'Afrique de l'Ouest, ayant gardé ses traditions africaines. Terre des jeunes a choisi ce pays pour son sommet car les membres de Terre des jeunes Togo y ont fait preuve d'un dynamisme sans relâche et parce qu'ils ont déjà organisé plusieurs chantiers locaux. Plus d'infos:
 
  * [Le routard](http://www.routard.com/guide/code_dest/togo.htm)
  * [Portail Togo Tourisme](http://www.togo-tourisme.com)
