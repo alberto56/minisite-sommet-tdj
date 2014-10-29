@@ -8,7 +8,7 @@ blockquote,q{quotes:none;}
 blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
 table{border-collapse:collapse;border-spacing:0;}
 /* start editing from here */
-a, a:visited{text-decoration:none;color:#664041;}
+a, a:visited{text-decoration:none;color:#1a5e69;}
 a:hover{color:#8bbd32;}
 .txt-rt{text-align:right;}/* text align right */
 .txt-lt{text-align:left;}/* text align left */
