@@ -52,9 +52,6 @@ body{
 	background: url({{ site.grosse_image }}) no-repeat 85% 31%;
 	background-size: 100% 100%;
 }
-.top-header .wrap {
-	height: 91px;
-}
 .logo{
 	float:left;
 }
