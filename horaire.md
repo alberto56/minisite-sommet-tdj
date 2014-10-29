@@ -19,7 +19,8 @@ Les antennes de Terre des jeunes se réunissent pour faire connaissance et discu
 L'écovillage ouvre ses portes à tous les participants inscrits au Sommet.  Le logement et la nourriture sont prévus sur place.
 Le Sommet va se dérouler se selon trois grandes thématiques et sera axé sur la pratique et les actions concrètes. Des plantations d'arbres sont aussi prévues.
 
-### Volet 3 : Tourisme environnemental dans le pays. 20 août au 22 août 2015.
+### Volet 3 : Tourisme environnemental dans le pays.
+20 août au 22 août 2015.
 Visite de plusieurs lieux du Togo, dont le Pic d'Agou.
 
 ### Volet 4 : Festapic, festival culturel
@@ -76,18 +77,18 @@ Financement, et activités génératrices de revenus.
 Volet 2 : Du 14 au 18 août
 ----------------
 
-### LE MATIN :
+#### LE MATIN :
 
-#### Chantiers étalés sur les 5 jours
+##### Chantiers étalés sur les 5 jours
 
  * Arbres et reboisement : Graine de vie, Sylvelle, Fête de l'arbre, parc sylva. Essences intéressantes.
  * Jardin communautaire et/ou collectif : Choix du modèle, enrichir la terre (compost), plantes locales.
  * Habitat : Choix de : Habitat, structure, couverture. Ensuite construction. (préparation des matériaux au préalable).
  * Autres chantiers à déterminer.
 
-### DÎNER ET SIESTE/REPOS
+#### DÎNER ET SIESTE/REPOS
 
-### APRÈS-MIDI :
+#### APRÈS-MIDI :
 
  * Jour 7 : Expérience de financement par des activités. Financement et activités génératrices de revenus.
  * Jour 8 : Autonomie alimentaire, jardins communautaires, agriculture améliorée, compost, recyclage.
@@ -96,7 +97,7 @@ Volet 2 : Du 14 au 18 août
  * Jour 11 : femmes et avenir, fours solaires et énergies alternatives
 le modèle TDJ et avenir de l'organisme.
 
-### FIN D'APRÈS-MIDI :
+#### FIN D'APRÈS-MIDI :
 
 Les participants s'inscrivent sur un tableau, pour plusieurs jours aux activités élémales :
 
@@ -116,10 +117,10 @@ Gestion du feu, bois, et de l'énergie - Discussions sur les énergies alternati
 
 Nettoyage des espaces de vie, instruments - Discussions sur les vêtements, la consommation, etc.
 
-### SOUPER
+#### SOUPER
 
 Repas et espace affectif - Discussions du moment de la journée.
 
-### SOIR :
+#### SOIR :
 
 Activités culturelles
