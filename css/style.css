@@ -63,11 +63,10 @@ body{
 	color: rgb(25, 53, 58);
 	font-size: 2.2em;
 	font-weight: 500;
-	padding: 0 0 0 91px;
+	padding: 0 0 0 12px;
 }
 .logo img {
-	position: absolute;
-	top: 0;
+	float: left;
 }
 .logo a span{
 	color:#F1C40F;
