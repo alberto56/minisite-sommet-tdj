@@ -46,7 +46,7 @@ Le soir, discussions de Terre des jeunes.
 
 #### Matin :
 
-Préparation du terrain
+Préparation du terrain en groupes de travail
 
 #### Après-midi :
 
