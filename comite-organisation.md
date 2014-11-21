@@ -10,9 +10,9 @@ Composition du comité international d'organisation
 
 ### Canada
 
-<img src="http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/ca-2013-07-29.png" />
+<img src="http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/ca-2013-07-29.png" height="220" width="220" />
 
- * Riel Huaorani
+ * Riel Huaorani, récipiendaire du prix Global 500
  * Sophie Dubois-Veilleux
  * Lydie Servanin
  * [Brigitte Blais](http://terredesjeunes.org/sites/terredesjeunes.org/files/CV%20Brigitte%20Blais%20analyste%202014.pdf)
