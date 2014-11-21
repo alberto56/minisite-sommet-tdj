@@ -10,6 +10,8 @@ Composition du comité international d'organisation
 
 ### Canada
 
+<img src="http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/ca-2013-07-29.png" />
+
  * Riel Huaorani
  * Sophie Dubois-Veilleux
  * Lydie Servanin
