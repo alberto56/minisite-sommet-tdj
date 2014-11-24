@@ -13,7 +13,7 @@ Composition du comité international d'organisation
 <img src="http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/tdj_full_lightbox_target/ca-2013-07-29.png" height="220" width="220" />
 
  * [Riel Huaorani](http://terredesjeunes.org/sites/terredesjeunes.org/files/Riel%20Huaorani%20C.V.%20TDJ.pdf), récipiendaire du prix Global 500
- * Sophie Dubois-Veilleux
+ * [Sophie Dubois-Veilleux](http://terredesjeunes.org/sites/terredesjeunes.org/files/cv%20tdj.pdf)
  * Lydie Servanin
  * [Brigitte Blais](http://terredesjeunes.org/sites/terredesjeunes.org/files/CV%20Brigitte%20Blais%20analyste%202014.pdf)
  * Albert Albala
