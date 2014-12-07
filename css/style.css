@@ -148,7 +148,7 @@ body{
 	color: #252525;
 }
 .welcome-note p{
-	color: #555;
+	/* color: #555; */
 	width: 45%;
 	margin: 0 auto;
 	margin-top: 0.5em;
@@ -170,7 +170,7 @@ body{
 
 .top-grid ul,
 .top-grid p {
-	color:#999;
+	/* color:#999; */
 	margin: 0.8em 0;
 	line-height: 1.8em;
 	font-family: 'Open Sans', sans-serif;
@@ -201,7 +201,7 @@ body{
 	width:78%;
 }
 .our-mission-right p{
-	color: #999;
+	/* color: #999; */
 	margin: 0.8em 0;
 	line-height: 1.8em;
 	font-family: 'Open Sans', sans-serif;
@@ -220,7 +220,7 @@ body{
 	font-family: 'existencelight';
 }
 .trust p{
-	color: #999;
+	/* color: #999; */
 	line-height: 1.8em;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
@@ -328,7 +328,7 @@ body{
 .sub-about-grid-people{
 	padding: 10px;
 	border: 1px solid #eee;
-	color: #999;
+	/* color: #999; */
 	line-height: 1.8em;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
@@ -351,7 +351,7 @@ body{
 	-moz-border-radius: 50%;
 }
 .sub-about-grid span{
-	color: #999;
+	/* color: #999; */
 	font-family: 'Open Sans', sans-serif;
 	font-size: 0.75em;
 	text-transform: uppercase;
@@ -516,7 +516,7 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 .ca-item h4{
 	border-left: 7px solid #F1C40F;
 	position: relative;
-	color: #999;
+	/* color: #999; */
 	margin: 0.8em 0;
 	line-height: 1.8em;
 	font-family: 'Open Sans', sans-serif;
@@ -528,7 +528,7 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 	display: block;
 }
 .ca-item h4  span.ca-quote{
-	color: #999;
+	/* color: #999; */
 	font-size: 5em;
 	position: absolute;
 	top: 11px;
@@ -551,7 +551,7 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 }
 .ca-content-text{
 	padding: 10px 36px;
-	color: #999;
+	/* color: #999; */
 	line-height: 1.8em;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
@@ -631,7 +631,7 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 	font-family: 'existencelight';
 }
 .mid-grids-header p{
-	color: #999;
+	/* color: #999; */
 	line-height: 1.8em;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
@@ -736,7 +736,7 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 	font-family: 'existencelight';
 }
 .contact-header p {
-	color: #999;
+	/* color: #999; */
 	line-height: 1.8em;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
@@ -811,14 +811,14 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 	padding:1em 0;
 }
 .copy-right p{
-	color: #999;
+	/* color: #999; */
 	font-family: 'Open Sans', sans-serif;
 	font-size: 0.75em;
 	text-transform: uppercase;
 	display: block;
 }
 .copy-right p a{
-	color:#999;
+	/* color:#999; */
 	transition: 0.5s ease;
 	-o-transition: 0.5s ease;
 	-webkit-transition: 0.5s ease;
