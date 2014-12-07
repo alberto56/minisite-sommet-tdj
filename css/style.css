@@ -165,7 +165,7 @@ body{
 }
 .top-grid h3{
 	font-size: 2.2em;
-	color: #AAA;
+	color: #111;
 }
 
 .top-grid ul,
@@ -193,7 +193,7 @@ body{
 }
 .our-mission-left h4{
 		font-size: 2.5em;
-		color: #AAA;
+		color: #111;
 		font-family: 'existencelight';
 }
 .our-mission-right{
@@ -717,7 +717,7 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 .cs-style-2 figcaption span{
 	font-size: 0.75em;
 	text-transform: uppercase;
-	color: #aaa;
+	color: #111;
 }
 .cs-style-2 figcaption a.biglink {
 	position: absolute;
