@@ -29,6 +29,9 @@ grosse_image:
 emplacement_ll:
   6.428705,1.2117147
 
+emplacement_zoom:
+  9
+
 # titre de la première section
 section_1_titre:
   À propos du  sommet
