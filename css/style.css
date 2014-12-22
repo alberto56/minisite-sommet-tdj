@@ -333,6 +333,7 @@ body{
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	font-size: 0.875em;
+	text-align: left;
 }
 .sub-about-grid h4{
 	color: #252525;
