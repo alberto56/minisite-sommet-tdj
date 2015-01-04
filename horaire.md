@@ -91,11 +91,11 @@ Volet 2 : Du 14 au 18 août
 
 #### APRÈS-MIDI :
 
- * Jour 7 : Expérience de financement par des activités. Financement et activités génératrices de revenus.
- * Jour 8 : Autonomie alimentaire, jardins communautaires, agriculture améliorée, compost, recyclage.
- * Jour 9 : Habitat, écovillage.
- * Jour 10 : Projets de reboisement, arbre, sylvelle, graine de vie.
- * Jour 11 : femmes et avenir, fours solaires et énergies alternatives
+ * Jour 1 : Expérience de financement par des activités. Financement et activités génératrices de revenus.
+ * Jour 2 : Autonomie alimentaire, jardins communautaires, agriculture améliorée, compost, recyclage.
+ * Jour 3 : Habitat, écovillage.
+ * Jour 4 : Projets de reboisement, arbre, sylvelle, graine de vie.
+ * Jour 5 : femmes et avenir, fours solaires et énergies alternatives
 le modèle TDJ et avenir de l'organisme.
 
 #### FIN D'APRÈS-MIDI :
