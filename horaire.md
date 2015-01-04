@@ -82,9 +82,9 @@ Volet 2 : Du 14 au 18 août
 
 ##### Chantiers étalés sur les 5 jours
 
- * Arbres et reboisement : Graine de vie, Sylvelle, Fête de l'arbre, parc sylva. Essences intéressantes.
- * Jardin communautaire et/ou collectif : Choix du modèle, enrichir la terre (compost), plantes locales.
- * Habitat : Choix de : Habitat, structure, couverture. Ensuite construction. (préparation des matériaux au préalable).
+ * Équipe Arbres et reboisement : Graine de vie, Sylvelle, Fête de l'arbre, parc sylva. Essences intéressantes.
+ * Équipe Jardin communautaire et/ou collectif : Choix du modèle, enrichir la terre (compost), plantes locales.
+ * Équipe Habitat : Choix de : Habitat, structure, couverture. Ensuite construction. (préparation des matériaux au préalable).
  * Autres chantiers à déterminer.
 
 #### DÎNER ET SIESTE/REPOS
