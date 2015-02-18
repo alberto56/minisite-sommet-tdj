@@ -8,6 +8,8 @@ Ceci est un site libre. [Créez votre compte Github](https://github.com/join?ret
 Visa
 ----
 
+Terre des jeunes Togo a réussi à obtenir du Gouvernement l'assurance que chaque participant et participante au sommet aura son visa soit à l'aéroport ou à la frontière, il s'agit d'avoir confirmation de sa participation au sommet à l'avance. *Ceci facilitera grandement vos préparatifs au sommet !*
+
 Vous avez probablement besoin d'un Visa pour vous rendre au Togo et nous vous conseillons de faire les démarches le plus tôt possible pour l'obtenir. Lors d'un récent voyage d'un Canadien au Togo, les étapes pour l'obtention du visa ont été passablement longues! Nous tentons actuellement de faciliter l'obtention de visa pour les participants au sommet, mais pour le moment il sera du ressort de chaque personne d'obtenir les documents de voyage nécessaires. Plus d'infos:
 
  * [Le routard](http://www.routard.com/guide/togo/1574/avant_le_depart.htm)
