@@ -21,6 +21,11 @@ Plus d'info générales :
 
  * [Le routard](http://www.routard.com/guide/togo/1574/avant_le_depart.htm)
 
+Visa: Note spéciale pour les participants d'Haïti
+----
+
+Vous aurez assurément à passer par Paris pour aller au Togo, il vous faudra donc un visa de transit de la France. SVP contactez l'ambassade de France pour obtenir ce visa aussi tôt que possible; s'il vous faut des documents particuliers, SVP nous en faire part le plus tôt possible.
+
 Comment se rendre
 ----
 
