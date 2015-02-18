@@ -10,7 +10,14 @@ Visa
 
 Terre des jeunes Togo a réussi à obtenir du Gouvernement l'assurance que chaque participant et participante au sommet aura son visa soit à l'aéroport ou à la frontière, il s'agit d'avoir confirmation de sa participation au sommet à l'avance ainsi que son carnet jaune international de vaccination (voir plus bas). *Ceci facilitera grandement vos préparatifs au sommet !*
 
-Vous avez probablement besoin d'un Visa pour vous rendre au Togo et nous vous conseillons de faire les démarches le plus tôt possible pour l'obtenir. Lors d'un récent voyage d'un Canadien au Togo, les étapes pour l'obtention du visa ont été passablement longues! Nous tentons actuellement de faciliter l'obtention de visa pour les participants au sommet, mais pour le moment il sera du ressort de chaque personne d'obtenir les documents de voyage nécessaires. Plus d'infos:
+Concrètement,
+
+ * Tous les participants doivent se munir de 02 photos passeports 
+ * Les participants des pays tels que Bénin, Burkina-Faso, Côte d'Ivoire, Sénégalet Niger n'auront pas besoin de visa pour rentrer au Togo durant le sommet.
+ * Les participants des pays tels que Belgique, Burundi, Cameroun, Haïti, Madagascar, Rép.Dém.du Congo, Nicaragua, Tunisie,  Canada, Colombie, Finlande doivent recevoir de visa.
+ * Après la demande globale laissée au niveau de la Mairie, tous les participants des pays qui doivent avoir des visa vont recevoir le visa soit à l'Aéroport de Lomé (Au Togo), soit à la frontière Togolaise. Dans tous les cas, ils vont recevoir leur visa au Togo pour 7 jours et le prolongé pour un mois au service d'immigration où nous avons déjà déposé une demande au nom de tous les participants moyennant un frais de visa allant de 10 000 à 25 000 F CFA (20$ à 50$ ou 15 à 35 euros) selon le pays. 
+
+Plus d'info générales :
 
  * [Le routard](http://www.routard.com/guide/togo/1574/avant_le_depart.htm)
 
