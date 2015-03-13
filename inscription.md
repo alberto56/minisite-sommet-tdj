@@ -1,2 +1,4 @@
-Inscription
------
+---
+layout: page
+title: Inscription
+---
