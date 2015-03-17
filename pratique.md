@@ -36,11 +36,11 @@ Votre arrivée
 
 Lorsque vous arrivez au Togo, attendez-vous à un comité d'accueil qui prendra en charge votre transport et vos transferts vers le site du sommet qui se trouve à 30 minutes de Lomé, dans le village de Tseviépé. Prévoyez de l'argent pour vos transports personnels.
 
-Pour ceux et celles qui le désirent, il est possible moyennant des frais d'à peu près 10$USD ou 5000FCFA avoir à 3 à 5 km du lieu des rencontres un hébergement dans un hôtel. 
-
 Logement et nourriture
 ----
 Les personnes inscrites seront logées et nourries sur le site du Sommet ou chez des villageois. Tout le monde est invité à participer à la gestion des lieux communs et des repas.
+
+Pour ceux et celles qui le désirent, il est possible moyennant des frais d'à peu près 10$USD ou 5000FCFA avoir à 3 à 5 km du lieu des rencontres un hébergement dans un hôtel. 
 
 À propos du Togo
 ----
