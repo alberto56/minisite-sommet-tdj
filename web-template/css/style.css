@@ -30,8 +30,8 @@ input[type="button"],input[type="submit"],input[type="text"]{
 	-webkit-appearance: none;
 }
 h1,h2,h3,h4,h5,h6{
-	margin:0;			   
-}	
+	margin:0;
+}
 p{
 	margin:0;
 }
@@ -175,7 +175,7 @@ a:hover {
 	content:url('../images/close.png') no-repeat 0px 0px;
 }
 
-.bl-content, 
+.bl-content,
 div.bl-panel-items > div > div {
 	opacity: 0;
 	pointer-events: none;
@@ -224,7 +224,7 @@ color: #fff;
 	list-style: none;
 	padding: 0;
 	margin: 0;
-} 
+}
 
 .bl-content > ul li {
 	display: inline-block;
@@ -1169,17 +1169,27 @@ text-decoration: underline;
 	  margin: 0.5em 0.3em;
 	  padding: 0;
 	}
-	.bl-icon-about:before {
-  	content: url('../images/eye1.png') no-repeat 0px 0px;
-	}
-	.bl-icon-works:before {
-  	content: url('../images/box1.png') no-repeat 0px 0px;
-	}
-	.bl-icon-blog:before {
-  	content: url('../images/service1.png') no-repeat 0px 0px;
-	}
-	.bl-icon-contact:before {
-  content: url('../images/mail1.png') no-repeat 0px 0px;
-	}
 
+}
+
+h1 {
+  color: #555 !important;
+  padding: 10px;
+  text-align: center;
+}
+h2.top {
+  color: #777 !important;
+  padding: 10px;
+  text-align: center;
+  font-size:1.6em;
+}
+p {
+  color: #888 !important;
+  padding: 10px;
+  font-size: 1.5em;
+  text-align: center;
+}
+.bl-sub {
+  font-size: 1em !important;
+  padding-top:0;
 }

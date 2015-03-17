@@ -1,17 +1,17 @@
 ---
 layout: choice
 title: "Étape 4: dates d'inscription"
-subtitle: Le volet 1, du 8 au 13 août 2015, est réservé aux membres de Terre des jeunes; Le volet 2, du 14 au 18 août, est ouvert au public. Vous pouvez aussi réserver votre place au volet culturel du 21 au 23 août. Un volet éco-touristique sera aussi offert les 24 et 25 août et payable sur place. Vous pouvez aussi vous inscrire uniquement au volet 2 en <a href=\"nord-nonmembre.html\">visitant la page des non-membres</a>
+subtitle: Le volet 2, du 14 au 18 août, est ouvert au public. Vous pouvez aussi réserver votre place au volet culturel du 21 au 23 août. Un volet éco-touristique sera aussi offert les 24 et 25 août et payable sur place.
 choice1logo: send
 choice2logo: send
-choice1title: "Volet 1: 220€"
-choice2title: "Volet 1+2+3: 340€"
-choice1sub: "Sommet des membres du 8 au 13 août<br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">
+choice1title: "Volet 2: 80€"
+choice2title: "Volet 2+3: 140€"
+choice1sub: "Sommet public du 14 au 18 août<br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">
 <input type=\"hidden\" name=\"cmd\" value=\"_xclick\">
 <input type=\"hidden\" name=\"business\" value=\"paypal@reforestation.net\">
 <input type=\"hidden\" name=\"lc\" value=\"CA\">
-<input type=\"hidden\" name=\"item_name\" value=\"Inscription volet 1\">
-<input type=\"hidden\" name=\"amount\" value=\"220.00\">
+<input type=\"hidden\" name=\"item_name\" value=\"Inscription volet 2\">
+<input type=\"hidden\" name=\"amount\" value=\"80.00\">
 <input type=\"hidden\" name=\"currency_code\" value=\"EUR\">
 <input type=\"hidden\" name=\"button_subtype\" value=\"services\">
 <input type=\"hidden\" name=\"no_note\" value=\"0\">
@@ -22,12 +22,12 @@ choice1sub: "Sommet des membres du 8 au 13 août<br/><br/><form action=\"https:/
 <img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">
 </form>
 "
-choice2sub: "Sommet des membres du 8 au 13 août, sommet public du 14 au 18 août + volet culturel du 21 au 23 août<br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">
+choice2sub: "Sommet public du 14 au 18 août + volet culturel du 21 au 23 août<br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">
 <input type=\"hidden\" name=\"cmd\" value=\"_xclick\">
 <input type=\"hidden\" name=\"business\" value=\"paypal@reforestation.net\">
 <input type=\"hidden\" name=\"lc\" value=\"CA\">
-<input type=\"hidden\" name=\"item_name\" value=\"Inscription volet 1+2+3\">
-<input type=\"hidden\" name=\"amount\" value=\"340.00\">
+<input type=\"hidden\" name=\"item_name\" value=\"Inscription volet 2+3\">
+<input type=\"hidden\" name=\"amount\" value=\"140.00\">
 <input type=\"hidden\" name=\"currency_code\" value=\"EUR\">
 <input type=\"hidden\" name=\"button_subtype\" value=\"services\">
 <input type=\"hidden\" name=\"no_note\" value=\"0\">
