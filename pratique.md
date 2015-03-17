@@ -40,6 +40,8 @@ Logement et nourriture
 ----
 Les personnes inscrites seront logées et nourries sur le site du Sommet ou chez des villageois. Tout le monde est invité à participer à la gestion des lieux communs et des repas.
 
+Pour ceux et celles qui le désirent, il est possible moyennant des frais d'à peu près 10$USD ou 5000FCFA avoir à 3 à 5 km du lieu des rencontres un hébergement dans un hôtel. 
+
 À propos du Togo
 ----
 
