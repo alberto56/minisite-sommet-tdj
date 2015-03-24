@@ -1,7 +1,7 @@
 ---
 layout: choice
 title: "Étape 4: dates d'inscription"
-subtitle: Le volet 1, du 8 au 13 août 2015, est réservé aux membres de Terre des jeunes; Le volet 2, du 14 au 18 août, est ouvert au public. Vous pouvez aussi réserver votre place au volet culturel du 21 au 23 août. Un volet éco-touristique sera aussi offert les 24 et 25 août et payable sur place. Vous pouvez aussi vous inscrire uniquement au volet 2 en <a href="nord-nonmembre.html">visitant la page des non-membres</a>
+subtitle: Le volet 1, du 8 au 13 août 2015, est réservé aux membres de Terre des jeunes; Le volet 2, du 14 au 18 août, est ouvert au public et aux membres de Terre des jeunes. Vous pouvez aussi réserver votre place au volet culturel du 21 au 23 août. Un volet éco-touristique sera aussi offert les 24 et 25 août et payable sur place. Vous pouvez aussi vous inscrire uniquement au volet 2 en <a href="nord-nonmembre.html">visitant la page des non-membres</a>
 choice1logo: send
 choice2logo: send
 choice1title: "Volet 1: 220€"

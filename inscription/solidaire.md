@@ -1,7 +1,7 @@
 ---
 layout: choice
 title: "Étape 2: combien désirez-vous donner ?"
-subtitle: "150 euros permettront à un ou une participante de bénéficier d'une entrée au sommet Terre des jeune. En achetant un billet solidaire, vous ferez du sommet Terre des jeunes un succès même si vous ne pouvez pas y aller!<br/><br/><strong>Pour obtenir de l'aide pour faire un don, ou pour obtenir notre information pour transfert bancaire, <a href=\"http://terredesjeunes.org/contact?edit[subject]=Aide%20pour%20faire%20un%20don%20au%20sommet%20Terre%20des%20jeunes&edit[message]=J'aimerais%20de%20l'aide%20pour%20faire%20un%20don%20au%20Sommet%20Terre%20des%20jeunes%20SVP.\">contactez-nous !</a></strong>"
+subtitle: "150 euros permettront à un ou une participante de bénéficier d'une entrée au sommet Terre des jeune. En achetant un billet solidaire, vous ferez du sommet Terre des jeunes un succès même si vous ne pouvez pas y participer!<br/><br/><strong>Pour obtenir de l'aide afin de faire un don ou pour obtenir nos informations bancaires dans le but de faire un transfert, <a href=\"http://terredesjeunes.org/contact?edit[subject]=Aide%20pour%20faire%20un%20don%20au%20sommet%20Terre%20des%20jeunes&edit[message]=J'aimerais%20de%20l'aide%20pour%20faire%20un%20don%20au%20Sommet%20Terre%20des%20jeunes%20SVP.\">contactez-nous !</a></strong><br/></br>Veuillez noter que nous ne sommes pas en mesure de fournir un reçu d'impôts."
 choice1logo: heart
 choice2logo: heart
 choice1title: Donner 150 euros
