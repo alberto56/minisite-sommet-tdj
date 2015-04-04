@@ -2,4 +2,5 @@
 layout: page
 title: Ateliers
 ---
-Nouvel atelier
+
+** [Remplir le formulaire en ligne](https://www.surveymonkey.com/s/THGQVCN)**
