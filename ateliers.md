@@ -7,6 +7,18 @@ title: Ateliers
 
 **[Proposer de co-animer un atelier déjà proposé (remplir le formulaire en ligne)](https://www.surveymonkey.com/s/N3VC6QW)**
 
+Ateliers proposées
+-----
+
+{% for post in site.posts %}
+  {% if post.class == atelier %}
+ * [{{ post.title }}]({{ post.url | prepend: site.baseurl }})
+  {% endif %}
+{% endfor % }
+
+Si vous voulez proposer un atelier
+-----
+
 Dans le but de préparer l’horaire du volet 2 du Sommet Terre des jeunes, nous aimerions recevoir vos propositions de présentations ou d’animation d’ateliers. Ce sera le temps pour vous de partager vos expériences, votre savoir, vos trucs et recommandations avec les autres antennes Terre des jeunes, mais aussi avec d’autres participants de différents horizons qui se joindront à nous lors du volet 2, du 14 au 18 août 2014.
 
 Thème général du Sommet : Un autre monde est possible : nous le créons !
