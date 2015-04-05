@@ -1,16 +1,7 @@
 ---
-layout: page
+layout: ateliers
 title: Ateliers
 ---
-
-**[Proposer un atelier (remplir le formulaire en ligne)](https://www.surveymonkey.com/s/THGQVCN)**
-
-**[Proposer de co-animer un atelier déjà proposé (remplir le formulaire en ligne)](https://www.surveymonkey.com/s/N3VC6QW)**
-
-Ateliers proposées
------
-
-a
 
 Si vous voulez proposer un atelier
 -----
