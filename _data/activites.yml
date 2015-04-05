@@ -1,28 +1,28 @@
 - titre: village écologique
   image: exemple
-  description: Le sommet aura lieu sur un village écologique qui restera par la suite.
+  description: Le sommet aura lieu sur un terrain destiné à accueillir des constructions écologiques. Des ateliers pratiques sont prévus.
   description_longue: >
-    Terre des jeunes Togo a fait l'acquisition d'un terrain à 30 minutes de Lomé, la capitale, afin d'y accueillir les jeunes d'à travers le monde dans un environnement naturel. Le site sera ensuite rentabilisé par l'accueil de stagiaires internationaux et la location à des micro-entreprise écologiques locales.
+    Terre des jeunes Togo a fait l'acquisition d'un terrain à 30 minutes de Lomé, la capitale. Lors du Sommet, nous aurons l'occasion de participer à la construction d'habitations traditionnelles écologiques. Dans le futur, Terre des jeunes Togo pourra y accueillir les jeunes d'à travers le monde dans un environnement naturel. Le site sera ensuite rentabilisé par l'accueil de stagiaires internationaux et la location à des micro-entreprises écologiques locales.
   identifiant_unique: village
 
 - titre: ateliers pratiques
   image: exemple
-  description: Terre des jeunes, c'est l'action pratique
+  description: Terre des jeunes, c'est l'action pratique. Venez mettre la main à la pâte.
   description_longue: >
-    Bien sûr, nous discuterons de la théorie autour des problèmes environnementaux. Toutefois, le point fort de Terre des jeunes, c'est l'action pratique: des jeunes de différents pays à travers le monde, aux réalités très différentes, mais ayant une chose en commun: une urgence d'agir pour protéger l'environnement et une approche commune basée sur les actions locales et bénévoles.
+    Bien sûr, nous discuterons de solutions concrètes. Toutefois, le point fort de Terre des jeunes, c'est l'action! Nous prévoyons des activités de construction écologique, de jardinage et de reboisement. 
   identifiant_unique: ateliers
 
 - titre: présentations et conférences
   image: exemple
   description: Bien comprendre pour bien agir.
   description_longue: >
-    Pour mobiliser de jeunes bénévoles autour de projets concrets, il est essentiel de bien comprendre l'urgence écologique à laquelle on fait face. Aussi, nous ne voulons pas réinventer la roue: des recherches se font à travers le monde sur de nouvelles techniques pour mieux répondre aux besoins des êtres humains tout en respectant le milieu naturel. Nous voulons les apprendre et les partager.
+    Pour mobiliser de jeunes bénévoles autour de projets concrets, il est essentiel d'offrir des modèles et des idées qui ont fait leurs preuves. Nous voulons les apprendre et les partager.
   identifiant_unique: presentations
 
 - titre: événements culturels
   image: exemple
   description: La protection de l'environnement, ce n'est pas que du sérieux
   description_longue: >
-    Depuis les tous débuts de Terre des jeunes, le travail et la fête vont de pair: nous tentons de construire un mouvement auquel les jeunes veulent participer, et les événements culturels, musicaux ne font que renforcer ce sentiment d'appartenance.
+    Depuis les débuts de Terre des jeunes, le travail et la fête vont de pair. Amenez vos instruments, vos chansons. Aussi, les volets 3 et 4 du Sommet sont axés sur des activités culturelles tratidionnelles du Togo et le tourisme local.
   identifiant_unique: culturels
 
