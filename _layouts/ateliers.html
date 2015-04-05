@@ -20,6 +20,7 @@ layout: default
     </li>
   </ul>  
 <h2>Ateliers proposés</h2>
+<ul>
 {% for post in site.posts reversed %}
   {% if post.class == atelier %}
     <li>
@@ -27,7 +28,7 @@ layout: default
     </li>
   {% endif %}
 {% endfor %}
-
+</ul>
 
   <article class="post-content">
     {{ content }}
