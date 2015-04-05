@@ -1,6 +1,6 @@
 ---
 layout: post
-titre:  "Jardins communautaires et jardins collectifs : Deux modèles de jardins à vocation sociale"
+realtitle:  "Jardins communautaires et jardins collectifs : Deux modèles de jardins à vocation sociale"
 categories: atelier
 animateur: Lydie Servanin (Montréal)
 image: http://terredesjeunes.org/sites/terredesjeunes.org/files/resize/DSCF1544-367x259.JPG
