@@ -23,7 +23,7 @@ layout: default
 <ul>
 {% for post in site.posts reversed %}
   {% if post.class == atelier %}
-    <li style="vertical-align: top; width: 50%; display: inline-block;">
+    <li style="vertical-align: top; width: 100%; display: inline-block;">
       <img style="margin:10px" align="left" src="{{ post.image }}" width="140" /><a href="{{ post.url | prepend: site.baseurl }}">{{ post.realtitle }} (présenté par {{ post.animateur }})</a>
     </li>
   {% endif %}
