@@ -24,7 +24,7 @@ layout: default
 {% for post in site.posts reversed %}
   {% if post.class == atelier %}
     <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} (présenté par {{ post.animateur }})</a>
     </li>
   {% endif %}
 {% endfor %}
