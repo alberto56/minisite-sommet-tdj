@@ -19,6 +19,15 @@ layout: default
       <a href="https://www.surveymonkey.com/s/N3VC6QW">Proposer de co-animer un atelier déjà proposé (remplir le formulaire en ligne)</a>
     </li>
   </ul>  
+<h2>Ateliers proposés</h2>
+{% for post in site.posts reversed %}
+  {% if post.class == atelier %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+
 
   <article class="post-content">
     {{ content }}
