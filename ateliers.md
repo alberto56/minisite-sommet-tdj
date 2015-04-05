@@ -10,11 +10,7 @@ title: Ateliers
 Ateliers proposées
 -----
 
-{% for post in site.posts %}
-  {% if post.class == atelier %}
- * [{{ post.title }}]({{ post.url | prepend: site.baseurl }})
-  {% endif %}
-{% endfor % }
+a
 
 Si vous voulez proposer un atelier
 -----
