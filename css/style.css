@@ -79,8 +79,11 @@ body{
 	color: #a52a31;
 }
 .top-header {
-	background: rgba(255, 255, 255, 0.33);
+	background: rgba(255, 255, 255, 0.66);
 	border-bottom: 1px ridge rgba(172, 172, 172, 0.2);
+}
+.internal .top-header {
+    background: url("http://terredesjeunes.org/sites/terredesjeunes.org/files/imagecache/images_sur_nodes/4189857.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
 }
 .top-nav ul li a {
 	color: #252525;
@@ -97,7 +100,7 @@ body{
 }
 /*---start-slider-info-----*/
 .slider-info{
-	 font-family: 'existencelight';
+	/* font-family: 'existencelight';*/
 	width: 65%;
 	text-align: center;
 	padding: 12em 0 20em 0;
