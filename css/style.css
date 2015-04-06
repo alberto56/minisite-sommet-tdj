@@ -49,8 +49,8 @@ body{
 	-ms-transition: all .2s linear;
 }
 .header{
-	background: url({{ site.grosse_image }}) no-repeat 85% 31%;
-	background-size: 100% 100%;
+	background: url({{ site.grosse_image }}) repeat scroll 72% 56% / 22% 60%;
+	/*background-size: 100% 100%;*/
 }
 .logo{
 	float:left;
@@ -84,18 +84,16 @@ body{
 .top-nav ul li a {
 	color: #252525;
 	display: block;
-	margin: 0px 5px;
 	transition: 0.5s ease;
 	-o-transition: 0.5s ease;
 	-webkit-transition: 0.5s ease;
-	padding: 1.2em;
 	border-radius: 0.3em;
-	font-family: 'existencelight';
-	font-weight: 300;
-	text-transform: uppercase;
-	font-size: 0.875em;
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 500;
+	font-family: 'existencelight', 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight: bold;
+    	margin: 0 5px;
+    	padding: 20px 10px;
+    	text-transform: uppercase;
 }
 /*---start-slider-info-----*/
 .slider-info{
@@ -110,9 +108,9 @@ body{
 	color: rgb(25, 53, 58);
 }
 .slider-info h1{
-	font-size: 6em;
+	font-size: 5em;
 	color: #FFFFFF;
-	font-weight: 500;
+	font-weight: 700;
 }
 .slider-info h1 span{
 	color:#F1C40F;
@@ -990,7 +988,12 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 		padding: 1.2em 0.4em;
 	}
 	.slider-info h2 {
-		font-size: 2em;
+	    font-size: 5em;
+	    text-transform: uppercase;
+		
+	}
+	.slider-info h2.inscrivez {
+	    font-size: 3em;
 	}
 	.slider-info h1 {
 		font-size: 4em;
