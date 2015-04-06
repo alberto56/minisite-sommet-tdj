@@ -9,7 +9,7 @@ blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
 table{border-collapse:collapse;border-spacing:0;}
 /* start editing from here */
 a, a:visited{text-decoration:none;color:#088778;}
-a:hover{color:#8bbd32;}
+a:hover{color:#a52a31;}
 .txt-rt{text-align:right;}/* text align right */
 .txt-lt{text-align:left;}/* text align left */
 .txt-center{text-align:center;}/* text align center */
@@ -75,7 +75,7 @@ body{
 	display:inline-block;
 }
 .top-nav li.active> a, .top-nav li> a:hover {
-	color: #8bbd32;
+	color: #a52a31;
 }
 .top-header {
 	background: rgba(255, 255, 255, 0.33);
@@ -104,8 +104,12 @@ body{
 	margin: 0 auto;
 }
 .slider-info h2{
-	font-size:3em;
+	font-size:5em;
 	color: rgb(25, 53, 58);
+	text-transform: uppercase;
+}
+.slider-info h2.inscrivez {
+	font-size: 3em;
 }
 .slider-info h1{
 	font-size: 5em;
@@ -988,12 +992,9 @@ background-image:url(http://terredesjeunes.org/sites/terredesjeunes.org/files/cu
 		padding: 1.2em 0.4em;
 	}
 	.slider-info h2 {
-	    font-size: 5em;
+	    font-size: 3em;
 	    text-transform: uppercase;
 		
-	}
-	.slider-info h2.inscrivez {
-	    font-size: 3em;
 	}
 	.slider-info h1 {
 		font-size: 4em;
