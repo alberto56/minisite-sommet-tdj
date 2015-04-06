@@ -51,6 +51,7 @@ body{
 .header{
 	background: url({{ site.grosse_image }}) repeat scroll 72% 56% / 22% 60%;
 	/*background-size: 100% 100%;*/
+	font-weight: bold;
 }
 .logo{
 	float:left;
