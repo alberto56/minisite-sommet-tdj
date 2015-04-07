@@ -57,11 +57,13 @@ body{
 	float:left;
 }
 .logo a{
-	font-family: 'existencelight';
+	/*font-family: 'existencelight';*/
 	color: rgb(25, 53, 58);
 	font-size: 2.2em;
 	font-weight: 500;
-	padding: 0 0 0 12px;
+	padding: 7px 0 0 12px;
+	display: block;
+	float: left;
 }
 .logo img {
 	float: left;
@@ -103,7 +105,7 @@ body{
 	/* font-family: 'existencelight';*/
 	width: 65%;
 	text-align: center;
-	padding: 12em 0 20em 0;
+	padding: 12em 0 15em 0;
 	margin: 0 auto;
 }
 .slider-info h2{
