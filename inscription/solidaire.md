@@ -1,12 +1,12 @@
 ---
 layout: choice
 title: "Étape 2: combien désirez-vous donner ?"
-subtitle: "150 euros permettront à un ou une participante de bénéficier d'une entrée au sommet Terre des jeune. En achetant un billet solidaire, vous ferez du sommet Terre des jeunes un succès même si vous ne pouvez pas y participer!<br/><br/><strong>Pour obtenir de l'aide afin de faire un don ou pour obtenir nos informations bancaires dans le but de faire un transfert, <a href=\"http://terredesjeunes.org/contact?edit[subject]=Aide%20pour%20faire%20un%20don%20au%20sommet%20Terre%20des%20jeunes&edit[message]=J'aimerais%20de%20l'aide%20pour%20faire%20un%20don%20au%20Sommet%20Terre%20des%20jeunes%20SVP.\">contactez-nous !</a></strong><br/></br>Veuillez noter que nous ne sommes pas en mesure de fournir un reçu d'impôts."
+subtitle: "150 euros permettront à un ou une participante de bénéficier d'une entrée au sommet Terre des jeune. En achetant un billet solidaire, vous ferez du sommet Terre des jeunes un succès même si vous ne pouvez pas y participer!<br/><br/><strong>Pour obtenir de l'aide afin de faire un don ou pour obtenir nos informations bancaires dans le but de faire un transfert, <a class=\"underline\" href=\"http://terredesjeunes.org/contact?edit[subject]=Aide%20pour%20faire%20un%20don%20au%20sommet%20Terre%20des%20jeunes&edit[message]=J'aimerais%20de%20l'aide%20pour%20faire%20un%20don%20au%20Sommet%20Terre%20des%20jeunes%20SVP.\">contactez-nous !</a></strong><br/></br>Veuillez noter que nous ne sommes pas en mesure de fournir un reçu d'impôts."
 choice1logo: heart
 choice2logo: heart
 choice1title: Donner 150 euros
 choice2title: Donner un autre montant
-choice1sub: "150 euros est l'équivalent d'une entrée pour une personne. Payer avec le lien ci-dessous ou <a href=\"http://terredesjeunes.org/contact?edit[subject]=informations%20western%20union%20SVP&edit[message]=J'aimerais%20payer%20directement%20par%20Western%20Union--SVP%20me%20fournir%20les%20informations%20pour%20ce%20faire,%20merci.\">contactez-nous pour savoir comment payer par Western Union.</a><br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">
+choice1sub: "150 euros est l'équivalent d'une entrée pour une personne. Payer avec le lien ci-dessous ou <a class=\"underline\"  href=\"http://terredesjeunes.org/contact?edit[subject]=informations%20western%20union%20SVP&edit[message]=J'aimerais%20payer%20directement%20par%20Western%20Union--SVP%20me%20fournir%20les%20informations%20pour%20ce%20faire,%20merci.\">contactez-nous pour savoir comment payer par Western Union.</a><br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">
 <input type=\"hidden\" name=\"cmd\" value=\"_xclick\">
 <input type=\"hidden\" name=\"business\" value=\"paypal@reforestation.net\">
 <input type=\"hidden\" name=\"lc\" value=\"CA\">
