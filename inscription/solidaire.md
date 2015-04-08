@@ -6,7 +6,7 @@ choice1logo: heart
 choice2logo: heart
 choice1title: Donner 150 euros
 choice2title: Donner un autre montant
-choice1sub: "150 euros est l'équivalent d'une entrée pour une personne. Payer avec le lien ci-dessous ou <a href="http://terredesjeunes.org/contact?edit[subject]=informations%20western%20union%20SVP&edit[message]=J'aimerais%20payer%20directement%20par%20Western%20Union--SVP%20me%20fournir%20les%20informations%20pour%20ce%20faire,%20merci.">contactez-nous pour savoir comment payer par Western Union.</a><br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">
+choice1sub: "150 euros est l'équivalent d'une entrée pour une personne. Payer avec le lien ci-dessous ou <a href=\"http://terredesjeunes.org/contact?edit[subject]=informations%20western%20union%20SVP&edit[message]=J'aimerais%20payer%20directement%20par%20Western%20Union--SVP%20me%20fournir%20les%20informations%20pour%20ce%20faire,%20merci.\">contactez-nous pour savoir comment payer par Western Union.</a><br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">
 <input type=\"hidden\" name=\"cmd\" value=\"_xclick\">
 <input type=\"hidden\" name=\"business\" value=\"paypal@reforestation.net\">
 <input type=\"hidden\" name=\"lc\" value=\"CA\">
@@ -22,7 +22,7 @@ choice1sub: "150 euros est l'équivalent d'une entrée pour une personne. Payer 
 <img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">
 </form>
 "
-choice2sub: "Chaque montant est grandement apprécié ! Payer avec le lien ci-dessous ou <a href="http://terredesjeunes.org/contact?edit[subject]=informations%20western%20union%20SVP&edit[message]=J'aimerais%20payer%20directement%20par%20Western%20Union--SVP%20me%20fournir%20les%20informations%20pour%20ce%20faire,%20merci.">contactez-nous pour savoir comment payer par Western Union.</a><br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">
+choice2sub: "Chaque montant est grandement apprécié ! Payer avec le lien ci-dessous ou <a href=\"http://terredesjeunes.org/contact?edit[subject]=informations%20western%20union%20SVP&edit[message]=J'aimerais%20payer%20directement%20par%20Western%20Union--SVP%20me%20fournir%20les%20informations%20pour%20ce%20faire,%20merci.\">contactez-nous pour savoir comment payer par Western Union.</a><br/><br/><form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">
 <input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\" /><br />
 <input type=\"hidden\" name=\"hosted_button_id\" value=\"BL5XAV68C439J\" /><br />
 <input type=\"image\" src=\"https://www.paypalobjects.com/fr_CA/i/btn/btn_donateCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !\" /><br />
