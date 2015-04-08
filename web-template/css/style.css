@@ -21,6 +21,9 @@ body a,a.slide-btn,a.more{
 body a:hover{
 	text-decoration:none;
 }
+.underline {
+        text-decoration: underline;
+}
 input[type="button"],input[type="submit"],input[type="text"]{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
