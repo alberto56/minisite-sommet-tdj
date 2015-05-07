@@ -16,7 +16,7 @@ Composition du comité international d'organisation
  * [Sophie Dubois-Veilleux](http://terredesjeunes.org/sites/terredesjeunes.org/files/cv%20tdj.pdf)
  * Lydie Servanin
  * [Brigitte Blais](http://terredesjeunes.org/sites/terredesjeunes.org/files/CV%20Brigitte%20Blais%20analyste%202014.pdf)
- * Albert Albala
+ * [Albert Albala](http://terredesjeunes.org/sites/terredesjeunes.org/files/20150112_albert_albala_fr_tdj.pdf)
 
 ### Côte d'Ivoire
 
