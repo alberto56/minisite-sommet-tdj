@@ -15,7 +15,7 @@ Composition du comité international d'organisation
  * [Riel Huaorani](http://terredesjeunes.org/sites/terredesjeunes.org/files/Riel%20Huaorani%20C.V.%20TDJ.pdf), récipiendaire du prix Global 500
  * [Sophie Dubois-Veilleux](http://terredesjeunes.org/sites/terredesjeunes.org/files/cv%20tdj.pdf)
  * Lydie Servanin
- * [Brigitte Blais](http://terredesjeunes.org/sites/terredesjeunes.org/files/CV%20Brigitte%20Blais%20analyste%202014.pdf)
+ * [Brigitte Blais](http://terredesjeunes.org/sites/terredesjeunes.org/files/CV%20Brigitte%20Blais%20Gestion%20Carbone%202015.pdf)
  * [Albert Albala](http://terredesjeunes.org/sites/terredesjeunes.org/files/20150112_albert_albala_fr_tdj.pdf)
 
 ### Côte d'Ivoire
