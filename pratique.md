@@ -55,3 +55,33 @@ Vaccins
 ----
 
 On vous demandera à l'aéroport votre carnet de vaccination contre la fièvre jaune. C'est un carnet jaune international; il est requis pour avoir votre visa (voir plus haut).
+
+Information pour les voyageurs en provenance d'Haïti
+-----
+
+### 1. Le vol
+
+Le meilleur tarif actuellement est avec [fly.co.uk](http://www.fly.co.uk) et le trajet est de Port-au-Prince -- Montréal -- Casablanca (Maroc) -- Accra (Ghana). D'Accra, c'est deux heures pour Lomé.
+
+### 2. Documents de voyage
+
+Vous devez posséder
+ 
+ * un passeport valide pour 6 mois après votre date prévue de retour.
+ * une lettre d'invitation pour le sommet que vous obtiendrez à [votre inscription](http://sommet.terredesjeunes.org/inscription/).
+ * Un visa de transit pour le Canada sans frais
+ * Un visa de transit pour le Maroc à 50 USD
+ * Un visa de transit pour le Ghana à 95 USD
+ 
+### 3. Comment obtenir le visa de transit pour le Canada
+
+Vous rendre à [l'ambassade du Canada à Port-au-Prince](http://www.canadainternational.gc.ca/haiti/contact-contactez.aspx?lang=eng).
+
+### 4. Comment obtenir le visa de transit pour le Maroc
+
+Il n'y a pas d'ambassade Marocaine en Haïti. Veuillez contacter [l'ambassade du Maroc à Montréal](http://www.consulatdumaroc.ca/services.htm).
+
+### 5. Comment obtenir le visa de transit pour le Ghana
+
+Il n'y a pas d'ambassade Ghanéenne en Haïti. Veuillez contacter [l'ambassade du Ghana à Ottawa (Canada)](http://www.ghc-ca.com/index-f.html) pour les démarches à suivre.
+
