@@ -6,7 +6,7 @@ title: Ateliers
 Si vous voulez proposer un atelier
 -----
 
-Dans le but de préparer l’horaire du volet 2 du Sommet Terre des jeunes, nous aimerions recevoir vos propositions de présentations ou d’animation d’ateliers. Ce sera le temps pour vous de partager vos expériences, votre savoir, vos trucs et recommandations avec les autres antennes Terre des jeunes, mais aussi avec d’autres participants de différents horizons qui se joindront à nous lors du volet 2, du 14 au 18 août 2014.
+Dans le but de préparer l’horaire du volet 2 du Sommet Terre des jeunes, nous aimerions recevoir vos propositions de présentations ou d’animation d’ateliers. Ce sera le temps pour vous de partager vos expériences, votre savoir, vos trucs et recommandations avec les autres antennes Terre des jeunes, mais aussi avec d’autres participants de différents horizons qui se joindront à nous lors du volet 2, du 15 au 20 août 2014.
 
 Thème général du Sommet : Un autre monde est possible : nous le créons !
 
@@ -18,13 +18,13 @@ Tous les matins, il y aura trois chantiers pratiques animés par des gens de TDJ
 Ateliers pratiques et théoriques
 -----
 
-Tous les après-midi par contre, nous aurons besoin de vous.  Alors que le soleil sera à son zénith, nous resterons à l’ombre et partagerons nos connaissances pratiques et théoriques. Si vous désirez partager des expériences vécues (cas exemplaires ou erreurs à ne pas reproduire) ou partager votre savoir théorique (ex : théories de la permaculture) ou monter un atelier simple (ex : four solaire) pour l’un des thèmes ci-bas, remplissez le formulaire ci-bas et renvoyez-le nous.  Selon le nombre d’offres que nous recevrons, nous vous dirons avant le 1er mai 2015 si votre proposition a été retenue ou non, et les marches à suivre pour la tenue de votre atelier. 
+Tous les après-midi par contre, nous aurons besoin de vous.  Alors que le soleil sera à son zénith, nous resterons à l’ombre et partagerons nos connaissances pratiques et théoriques. Si vous désirez partager des expériences vécues (cas exemplaires ou erreurs à ne pas reproduire) ou partager votre savoir théorique (ex : théories de la permaculture) ou monter un atelier simple (ex : four solaire) pour l’un des thèmes ci-bas, remplissez le formulaire ci-bas et renvoyez-le nous.  Selon le nombre d’offres que nous recevrons, nous vous dirons avant le 1er mai 2015 si votre proposition a été retenue ou non, et les marches à suivre pour la tenue de votre atelier.
 
 La durée finale des présentations sera déterminée par la suite en fonction des besoins.
 
 Notez que l’animation d’ateliers n’est pas rémunérée et que les frais de déplacement et de participation ne sont pas remboursés. Ces ateliers seront offerts par les participants au Sommet et par des commanditaires.
 Thèmes :
- 
+
  * Jour 1 : Financement et activités génératrices de revenus.
  * Jour 2 : Autonomie alimentaire, jardins communautaires, agriculture améliorée, permaculture, compost, recyclage.
  * Jour 3 : Habitat, écovillage.

@@ -14,13 +14,13 @@ En résumé
 Les antennes de Terre des jeunes se réunissent pour faire connaissance et discuter des grandes orientations du mouvement.
 
 ### Volet 2 : Sommet Togo 2015
-14 août au 18 août 2015, écovillage et Lomé, Togo
+15 août au 20 août 2015, écovillage et Lomé, Togo
 
 L'écovillage ouvre ses portes à tous les participants inscrits au Sommet.  Le logement et la nourriture sont prévus sur place.
 Le Sommet va se dérouler se selon trois grandes thématiques et sera axé sur la pratique et les actions concrètes. Des plantations d'arbres sont aussi prévues.
 
 ### Volet 3 : Tourisme environnemental dans le pays.
-20 août au 22 août 2015.
+21 août au 22 août 2015.
 Visite de plusieurs lieux du Togo, dont le Pic d'Agou.
 
 ### Volet 4 : Festapic, festival culturel
