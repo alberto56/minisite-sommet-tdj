@@ -3,7 +3,7 @@ backend:
   repo: alberto56/minisite-sommet-tdj
   branch: gh-pages
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/6934ddd1c79a475eb309bca1
+  auth_endpoint: /auth/github/repo/6946e3d17c6e2b059bec665f
 media_folder: static/uploads
 public_folder: /uploads
 collections:
